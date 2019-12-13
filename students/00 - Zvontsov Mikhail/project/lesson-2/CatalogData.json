@@ -1,0 +1,40 @@
+[{
+        "id_product": 111,
+        "name_product": "Notebook",
+        "price": 2000
+    },
+    {
+        "id_product": 222,
+        "name_product": "PC",
+        "price": 5000
+    },
+    {
+        "id_product": 333,
+        "name_product": "Mouse",
+        "price": 50
+    },
+    {
+        "id_product": 444,
+        "name_product": "Keytboard",
+        "price": 100
+    },
+    {
+        "id_product": 555,
+        "name_product": "Gamepad",
+        "price": 250
+    },
+    {
+        "id_product": 666,
+        "name_product": "PS4",
+        "price": 500
+    },
+    {
+        "id_product": 777,
+        "name_product": "TV",
+        "price": 2500
+    }, {
+        "id_product": 888,
+        "name_product": "Stereo",
+        "price": 500
+    }
+]
